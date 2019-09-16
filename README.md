@@ -30,4 +30,21 @@ BarrenLandAnalysisText.java contains basic JUnit tests to test given test cases 
 
 **Build TOOL**
 
-GRADLE DEPENDENCY MANAGEMENT
+GRADLE DEPENDENCY MANAGEMENT.
+
+
+**STEPS TO ACCESS THE APPLICATION**
+
+1. Clone the project.
+2. Run the application in embedded tomcat server.
+3. Hit the url -> localhost:8080 , which gives default response " Hello Barren Land successfully deployed and started..."
+4. Now hit swagger URL -> http://localhost:8080/swagger-ui.html
+5. Go to Controller section and click on input give string array values and give exceute.
+6. output or exception response will be shown in the response area with valid status code.
+
+**Tech Stacks Covered**
+1.Spring boot application from scratch.
+2. global exception.
+3. global logging with custom names
+4. git version control usage.
+5. swagger implemenation.
