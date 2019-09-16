@@ -43,6 +43,7 @@ GRADLE DEPENDENCY MANAGEMENT.
 6. output or exception response will be shown in the response area with valid status code.
 
 **Tech Stacks Covered**
+
 1.Spring boot application from scratch.
 2. global exception.
 3. global logging with custom names
